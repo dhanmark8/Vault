@@ -1,2 +1,32 @@
-# Vault
-Vault is a privacy-first budget tracker built with React Native. Fully offline, no forced login, and no automatic cloud syncing. Includes optional smart analytics and CSV export so you stay in control of your data.
+## Vault — Offline Budget Tracker
+
+Vault is a privacy-focused budgeting app built with React Native (Expo).
+
+It’s designed to work fully offline, without forcing users to create accounts or send financial data to the cloud. Your data stays on your device, and you stay in control.
+
+### Why Vault?
+
+Most finance apps rely heavily on cloud syncing and user accounts. Vault takes a different approach — simple, local, and private.
+
+### Features
+
+* 📱 Fully offline — no internet required
+* 🔐 No forced login — no account needed
+* 📊 Smart analytics (optional, can be turned on/off anytime)
+* 📁 Export data to CSV
+* 🏦 Support for banks and e-wallets (GCash, Maya, etc.)
+* 🧠 Local-first data storage using AsyncStorage
+
+### Tech Stack
+
+* React Native (Expo)
+* Expo Router
+* AsyncStorage
+
+### Philosophy
+
+Vault is built around one idea:
+
+> Your financial data is yours.
+
+No tracking by default. No unnecessary complexity. Just a clean, functional tool you can rely on anytime.
